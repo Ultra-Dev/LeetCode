@@ -1,7 +1,7 @@
 package dp.lc_121;
 
 /**
- * 121.卖股票的最佳时机
+ * 121. 卖股票的最佳时机
  * @author xiangliang
  * @time 2020/3/9 13:46
  * @url https://www.bilibili.com/video/av93882056
