@@ -1,0 +1,25 @@
+.eslintignore
+.eslintrc
+*.class
+*.iml
+# Package Files # 
+*.jar
+*.war
+*.ear
+*.map
+*.ipr
+*.iws
+# ignore Maven generated target folders 
+target
+# ignore eclipse files 
+.project
+.classpath
+.settings
+.metadata
+# ignore Maven generated target folders 
+node_modules
+.sass-cache
+.idea
+*.DS_Store
+test
+
