@@ -32,7 +32,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-
         int[] test = {0, 2, 1, -6, 6, 7, 9, -1, 2, 0, 1};
 
     }
